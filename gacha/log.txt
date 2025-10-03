@@ -1,0 +1,106 @@
+You draw an NORMAL PrizeBall (Pink), it contains Octopus.
+You draw an NORMAL PrizeBall (White), it contains Monkey.
+You draw an NORMAL PrizeBall (Pink), it contains Oyster.
+You draw an NORMAL PrizeBall (White), it contains Otter.
+You draw an NORMAL PrizeBall (White), it contains Monkey.
+You draw an RARE PrizeBall (Blue), it contains Albatross.
+You draw an NORMAL PrizeBall (Pink), it contains Orca.
+You draw an NORMAL PrizeBall (White), it contains Ring-tailed Lemur.
+You draw an NORMAL PrizeBall (Pink), it contains Octopus.
+You draw an NORMAL PrizeBall (Pink), it contains Octopus.
+You draw an EPIC PrizeBall (Purple), it contains Rubber Duck.
+You draw an RARE PrizeBall (Blue), it contains Python.
+You draw an NORMAL PrizeBall (White), it contains Ring-tailed Lemur.
+You draw an RARE PrizeBall (Blue), it contains Panda.
+You draw an NORMAL PrizeBall (White), it contains Capibara.
+You draw an NORMAL PrizeBall (Pink), it contains Oyster.
+You draw an ExtraBall (Light Green), it gives 2 extra draws
+You draw an NORMAL PrizeBall (Pink), it contains Orca.
+You draw an NORMAL PrizeBall (Pink), it contains Oyster.
+You draw an NORMAL PrizeBall (White), it contains Ring-tailed Lemur.
+You draw an NORMAL PrizeBall (White), it contains Monkey.
+You draw an NORMAL PrizeBall (Pink), it contains Orca.
+You draw an RARE PrizeBall (Blue), it contains Panda.
+You draw an EmptyBall (Red), it contains... nothing.
+You draw an NORMAL PrizeBall (White), it contains Ring-tailed Lemur.
+You draw an NORMAL PrizeBall (White), it contains Otter.
+You draw an NORMAL PrizeBall (Pink), it contains Dolphin.
+You draw an EmptyBall (Red), it contains... nothing.
+You draw an NORMAL PrizeBall (White), it contains Rhino.
+You draw an NORMAL PrizeBall (White), it contains Otter.
+You draw an ExtraBall (Light Green), it gives 2 extra draws
+You draw an RARE PrizeBall (Blue), it contains Panda.
+You draw an NORMAL PrizeBall (Pink), it contains Orca.
+You draw an ExtraBall (Light Green), it gives 2 extra draws
+You draw an EPIC PrizeBall (Purple), it contains Rubber Duck.
+You draw an NORMAL PrizeBall (Pink), it contains Octopus.
+You draw an NORMAL PrizeBall (White), it contains Rhino.
+You draw an EPIC PrizeBall (Purple), it contains Hammerhead Shark.
+You draw an EmptyBall (Red), it contains... nothing.
+You draw an EmptyBall (Red), it contains... nothing.
+You draw an NORMAL PrizeBall (Pink), it contains Orca.
+You draw an LEGENDARY PrizeBall (Orange), it contains Max the Marmot.
+You draw an NORMAL PrizeBall (White), it contains Rhino.
+You draw an ExtraBall (Light Green), it gives 2 extra draws
+You draw an NORMAL PrizeBall (White), it contains Monkey.
+You draw an EPIC PrizeBall (Purple), it contains Great White Shark.
+You draw an NORMAL PrizeBall (White), it contains Rhino.
+You draw an RARE PrizeBall (Blue), it contains Chimpanzee.
+You draw an RARE PrizeBall (Blue), it contains Chimpanzee.
+You draw an NORMAL PrizeBall (Pink), it contains Dolphin.
+You draw an NORMAL PrizeBall (White), it contains Rhino.
+You draw an NORMAL PrizeBall (Pink), it contains Oyster.
+You draw an NORMAL PrizeBall (Pink), it contains Oyster.
+You draw an NORMAL PrizeBall (Pink), it contains Octopus.
+You draw an RARE PrizeBall (Blue), it contains Chimpanzee.
+You draw an EmptyBall (Red), it contains... nothing.
+You draw an NORMAL PrizeBall (Pink), it contains Orca.
+You draw an NORMAL PrizeBall (White), it contains Monkey.
+You draw an NORMAL PrizeBall (White), it contains Otter.
+You draw an EmptyBall (Red), it contains... nothing.
+You draw an NORMAL PrizeBall (White), it contains Monkey.
+You draw an EmptyBall (Red), it contains... nothing.
+You draw an NORMAL PrizeBall (Pink), it contains Octopus.
+You draw an NORMAL PrizeBall (White), it contains Ring-tailed Lemur.
+You draw an NORMAL PrizeBall (White), it contains Rhino.
+You draw an EmptyBall (Red), it contains... nothing.
+You draw an NORMAL PrizeBall (Pink), it contains Dolphin.
+You draw an NORMAL PrizeBall (Pink), it contains Dolphin.
+You draw an EPIC PrizeBall (Purple), it contains Rubber Duck.
+You draw an EmptyBall (Red), it contains... nothing.
+You draw an EmptyBall (Red), it contains... nothing.
+You draw an NORMAL PrizeBall (Pink), it contains Oyster.
+You draw an NORMAL PrizeBall (Pink), it contains Dolphin.
+You draw an ExtraBall (Bright Green), it gives 5 extra draws
+You draw an NORMAL PrizeBall (Pink), it contains Orca.
+You draw an RARE PrizeBall (Blue), it contains Python.
+You draw an ExtraBall (Light Green), it gives 2 extra draws
+You draw an NORMAL PrizeBall (White), it contains Ring-tailed Lemur.
+You draw an NORMAL PrizeBall (White), it contains Rhino.
+You draw an RARE PrizeBall (Blue), it contains Albatross.
+You draw an NORMAL PrizeBall (White), it contains Ring-tailed Lemur.
+You draw an NORMAL PrizeBall (Pink), it contains Oyster.
+You draw an ExtraBall (Bright Green), it gives 5 extra draws
+You draw an NORMAL PrizeBall (White), it contains Monkey.
+You draw an RARE PrizeBall (Blue), it contains Chimpanzee.
+You draw an NORMAL PrizeBall (Pink), it contains Orca.
+You draw an NORMAL PrizeBall (Pink), it contains Oyster.
+You draw an NORMAL PrizeBall (Pink), it contains Dolphin.
+You draw an ExtraBall (Light Green), it gives 2 extra draws
+You draw an EPIC PrizeBall (Purple), it contains Hammerhead Shark.
+You draw an NORMAL PrizeBall (Pink), it contains Oyster.
+You draw an NORMAL PrizeBall (White), it contains Ring-tailed Lemur.
+You draw an ExtraBall (Light Green), it gives 2 extra draws
+You draw an NORMAL PrizeBall (Pink), it contains Orca.
+You draw an RARE PrizeBall (Blue), it contains Panda.
+You draw an NORMAL PrizeBall (White), it contains Monkey.
+You draw an NORMAL PrizeBall (White), it contains Rhino.
+You draw an NORMAL PrizeBall (White), it contains Ring-tailed Lemur.
+You draw an NORMAL PrizeBall (White), it contains Monkey.
+You draw an NORMAL PrizeBall (Pink), it contains Oyster.
+You draw an RARE PrizeBall (Blue), it contains Python.
+You draw an EPIC PrizeBall (Purple), it contains Rubber Duck.
+You draw an NORMAL PrizeBall (White), it contains Otter.
+You draw an NORMAL PrizeBall (Pink), it contains Oyster.
+You draw an RARE PrizeBall (Blue), it contains Albatross.
+You draw an NORMAL PrizeBall (White), it contains Rhino.

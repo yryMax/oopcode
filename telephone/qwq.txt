@@ -1,0 +1,33 @@
+Prepaid plan: KPN Hello You, costs 10.0 euro
+       includes 60 calling minutes, 250 texts and 2GB of data.
+       calling minutes carry over: no
+       texts carry over: no
+       internet data carry over: yes
+Prepaid plan for students: KPN Hello You, costs 9.0 euro
+       includes 60 calling minutes, 250 texts and 2GB of data.
+       calling minutes carry over: no
+       texts carry over: no
+       internet data carry over: yes
+Prepaid plan for students: T-Mobile Connected+Student, costs 13.0 euro
+       includes 100 calling minutes, 1000 texts and 4GB of data.
+       calling minutes carry over: yes
+       texts carry over: yes
+       internet data carry over: yes
+Prepaid plan: T-Mobile Connected+, costs 15.0 euro
+       includes 150 calling minutes, 500 texts and 4GB of data.
+       calling minutes carry over: no
+       texts carry over: no
+       internet data carry over: yes
+Prepaid plan for students: T-Mobile Connected+, costs 12.75 euro
+       includes 150 calling minutes, 500 texts and 4GB of data.
+       calling minutes carry over: no
+       texts carry over: no
+       internet data carry over: yes
+Subscription plan: KPN Silver, costs 16.0 euro
+       includes 200 calling minutes, unlimited texts and 4GB of data.
+Subscription plan: KPN Gold, costs 29.0 euro
+       includes unlimited calling minutes, unlimited texts and 9GB of data.
+Subscription plan for students: KPN Gold, costs 23.200000000000003 euro
+       includes unlimited calling minutes, unlimited texts and 9GB of data.
+Subscription plan: Tele2 Huge, costs 35.0 euro
+       includes unlimited calling minutes, unlimited texts and unlimitedGB of data.

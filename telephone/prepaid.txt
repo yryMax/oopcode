@@ -1,0 +1,5 @@
+KPN, Hello You, 10 euro, 60, 250, 2, false, false, true
+KPN, Hello You, 10 euro, 60, 250, 2, false, false, true, Student, 10%
+T-Mobile, Connected+, 15 euro, 150, 500, 4, false, false, true
+T-Mobile, Connected+, 15 euro, 150, 500, 4, false, false, true, Student, 15%
+T-Mobile, Connected+Student, 13 euro, 100, 1000, 4, true, true, true, Student, 0%

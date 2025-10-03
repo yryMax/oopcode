@@ -1,0 +1,4 @@
+KPN, Gold, 29 euro, unlimited, unlimited, 9
+KPN, Gold, 29 euro, unlimited, unlimited, 9, Student, 20%
+KPN, Silver, 16 euro, 200, unlimited, 4
+Tele2, Huge, 35 euro, unlimited, unlimited, unlimited
